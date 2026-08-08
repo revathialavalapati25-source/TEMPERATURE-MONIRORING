@@ -1,0 +1,5 @@
+Time    Temp    Low Normal High Alarm
+10      20      1    0      0    0
+20      30      0    1      0    0
+30      45      0    0      1    1
+40      60      0    0      1    1
